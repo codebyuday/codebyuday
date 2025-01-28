@@ -50,10 +50,9 @@ Hi there! I’m **Udaypratap Singh**, a **2nd-year B.Tech student** at **GH Rais
 ---
 
 ## 🤝 Let’s Connect!  
-🌟 **GitHub:** [Your GitHub Profile Link]  
-🌟 **LinkedIn:** [Your LinkedIn Profile Link]  
-🌟 **Email:** [Your Email Address]  
-
+🌟 **GitHub:**
+🌟 **LinkedIn:** https://www.linkedin.com/in/udaypratap-singh-285823288
+🌟 **Email:** udaypratapwins0@gmail.com
 ---
 
 > ⚡ *"Cybersecurity isn't just a career, it's a commitment to creating a safer digital future."*
